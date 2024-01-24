@@ -1,3 +1,20 @@
+/* .hero-badge {
+    border-radius: 16px;
+    background: rgba(19, 19, 24, 0.50);
+} */
+
+.register-btn {
+    color: #FFF;
+    padding: 10px 22px;
+    border-radius: 8px;
+    border: 1px solid #FF4240;
+    background: #FF4240;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
 .card-border {
     border-radius: 24px;
     border: 1px solid rgba(19, 19, 24, 0.10);
@@ -17,7 +34,7 @@
 
 /* get in touch */
 
-.get-border{
+.get-border {
     border-radius: 16px;
     border: 1px solid rgba(19, 19, 24, 0.10);
 
@@ -31,7 +48,7 @@ textarea {
     border-radius: 10px;
     background: rgba(19, 19, 24, 0.03);
     box-sizing: border-box;
-    
+
     resize: vertical;
 }
 
